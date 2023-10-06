@@ -1,0 +1,7 @@
+S=input ("Digite três números inteiros: ")
+L= S.split(" ")
+print ("Lista L: ", L)
+A = int (L[0])
+B=int (L[1])
+C=int (L[2])
+print ("A={}, B={}, C={}".format (A, B, C))

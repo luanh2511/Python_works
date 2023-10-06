@@ -1,0 +1,2 @@
+mens == "ola";
+Print mens;
